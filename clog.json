@@ -1,34 +1,220 @@
 {
     "Log": [
         {
+            "Weapon": "T93",
+            "Status": "connect",
+            "DisconnectCount": -1,
+            "SystemTime": "2024/08/05 14:48:42"
+        },
+        {
             "Weapon": "FGM148",
             "Status": "connect",
             "DisconnectCount": -1,
-            "SystemTime": "2024/08/05 12:11:10"
+            "SystemTime": "2024/08/05 14:48:42"
+        },
+        {
+            "Weapon": "T93",
+            "Status": "disconnect",
+            "DisconnectCount": 1,
+            "SystemTime": "2024/08/05 14:50:13"
+        },
+        {
+            "Weapon": "T93",
+            "Status": "connect",
+            "DisconnectCount": -1,
+            "SystemTime": "2024/08/05 14:50:13"
+        },
+        {
+            "Weapon": "T93",
+            "Status": "disconnect",
+            "DisconnectCount": 2,
+            "SystemTime": "2024/08/05 14:51:02"
+        },
+        {
+            "Weapon": "T93",
+            "Status": "connect",
+            "DisconnectCount": -1,
+            "SystemTime": "2024/08/05 14:51:03"
         },
         {
             "Weapon": "AC50",
             "Status": "connect",
             "DisconnectCount": -1,
-            "SystemTime": "2024/08/05 12:11:18"
+            "SystemTime": "2024/08/05 14:52:51"
         },
         {
             "Weapon": "AX50",
             "Status": "connect",
             "DisconnectCount": -1,
-            "SystemTime": "2024/08/05 12:11:18"
+            "SystemTime": "2024/08/05 14:52:51"
         },
         {
             "Weapon": "FGM148",
             "Status": "disconnect",
             "DisconnectCount": 1,
-            "SystemTime": "2024/08/05 13:13:47"
+            "SystemTime": "2024/08/05 15:39:17"
         },
         {
             "Weapon": "FGM148",
             "Status": "connect",
             "DisconnectCount": -1,
-            "SystemTime": "2024/08/05 13:13:48"
+            "SystemTime": "2024/08/05 15:39:18"
+        },
+        {
+            "Weapon": "FGM148",
+            "Status": "disconnect",
+            "DisconnectCount": 2,
+            "SystemTime": "2024/08/05 16:05:22"
+        },
+        {
+            "Weapon": "FGM148",
+            "Status": "connect",
+            "DisconnectCount": -1,
+            "SystemTime": "2024/08/05 16:05:23"
+        },
+        {
+            "Weapon": "FGM148",
+            "Status": "disconnect",
+            "DisconnectCount": 3,
+            "SystemTime": "2024/08/05 16:05:26"
+        },
+        {
+            "Weapon": "FGM148",
+            "Status": "connect",
+            "DisconnectCount": -1,
+            "SystemTime": "2024/08/05 16:05:29"
+        },
+        {
+            "Weapon": "FGM148",
+            "Status": "disconnect",
+            "DisconnectCount": 4,
+            "SystemTime": "2024/08/05 16:05:30"
+        },
+        {
+            "Weapon": "FGM148",
+            "Status": "connect",
+            "DisconnectCount": -1,
+            "SystemTime": "2024/08/05 16:05:31"
+        },
+        {
+            "Weapon": "FGM148",
+            "Status": "disconnect",
+            "DisconnectCount": 5,
+            "SystemTime": "2024/08/05 16:06:02"
+        },
+        {
+            "Weapon": "FGM148",
+            "Status": "connect",
+            "DisconnectCount": -1,
+            "SystemTime": "2024/08/05 16:06:02"
+        },
+        {
+            "Weapon": "FGM148",
+            "Status": "disconnect",
+            "DisconnectCount": 6,
+            "SystemTime": "2024/08/05 16:06:19"
+        },
+        {
+            "Weapon": "FGM148",
+            "Status": "connect",
+            "DisconnectCount": -1,
+            "SystemTime": "2024/08/05 16:06:20"
+        },
+        {
+            "Weapon": "AC50",
+            "Status": "disconnect",
+            "DisconnectCount": 1,
+            "SystemTime": "2024/08/05 16:13:58"
+        },
+        {
+            "Weapon": "AC50",
+            "Status": "connect",
+            "DisconnectCount": -1,
+            "SystemTime": "2024/08/05 16:13:58"
+        },
+        {
+            "Weapon": "AC50",
+            "Status": "disconnect",
+            "DisconnectCount": 2,
+            "SystemTime": "2024/08/05 16:16:16"
+        },
+        {
+            "Weapon": "AC50",
+            "Status": "connect",
+            "DisconnectCount": -1,
+            "SystemTime": "2024/08/05 16:16:22"
+        },
+        {
+            "Weapon": "AX50",
+            "Status": "disconnect",
+            "DisconnectCount": 1,
+            "SystemTime": "2024/08/05 17:08:19"
+        },
+        {
+            "Weapon": "AX50",
+            "Status": "connect",
+            "DisconnectCount": -1,
+            "SystemTime": "2024/08/05 17:08:21"
+        },
+        {
+            "Weapon": "AX50",
+            "Status": "disconnect",
+            "DisconnectCount": 2,
+            "SystemTime": "2024/08/05 17:08:22"
+        },
+        {
+            "Weapon": "AX50",
+            "Status": "connect",
+            "DisconnectCount": -1,
+            "SystemTime": "2024/08/05 17:08:27"
+        },
+        {
+            "Weapon": "AX50",
+            "Status": "disconnect",
+            "DisconnectCount": 3,
+            "SystemTime": "2024/08/05 17:23:20"
+        },
+        {
+            "Weapon": "AX50",
+            "Status": "connect",
+            "DisconnectCount": -1,
+            "SystemTime": "2024/08/05 17:23:22"
+        },
+        {
+            "Weapon": "AX50",
+            "Status": "disconnect",
+            "DisconnectCount": 4,
+            "SystemTime": "2024/08/05 17:26:22"
+        },
+        {
+            "Weapon": "AX50",
+            "Status": "connect",
+            "DisconnectCount": -1,
+            "SystemTime": "2024/08/05 17:26:24"
+        },
+        {
+            "Weapon": "AX50",
+            "Status": "disconnect",
+            "DisconnectCount": 5,
+            "SystemTime": "2024/08/05 17:33:45"
+        },
+        {
+            "Weapon": "AX50",
+            "Status": "connect",
+            "DisconnectCount": -1,
+            "SystemTime": "2024/08/05 17:33:46"
+        },
+        {
+            "Weapon": "AC50",
+            "Status": "disconnect",
+            "DisconnectCount": 3,
+            "SystemTime": "2024/08/05 17:36:23"
+        },
+        {
+            "Weapon": "AC50",
+            "Status": "connect",
+            "DisconnectCount": -1,
+            "SystemTime": "2024/08/05 17:36:23"
         }
     ]
 }
